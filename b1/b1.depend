@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1732005405 source:c:\users\admin\desktop\it002\lab4\b1\main.cpp
+	"KySu.h"
+	"QuanLy.h"
+	<bits/stdc++.h>
+
+1732017382 c:\users\admin\desktop\it002\lab4\b1\nhanvien.h
+	<bits/stdc++.h>
+
+1732005475 source:c:\users\admin\desktop\it002\lab4\b1\nhanvien.cpp
+	"NhanVien.h"
+	<bits/stdc++.h>
+
+1732005113 source:c:\users\admin\desktop\it002\lab4\b1\kysu.cpp
+	"KySu.h"
+	<bits/stdc++.h>
+
+1732011985 c:\users\admin\desktop\it002\lab4\b1\kysu.h
+	"NhanVien.h"
+
+1732005105 source:c:\users\admin\desktop\it002\lab4\b1\quanly.cpp
+	"QuanLy.h"
+	<bits/stdc++.h>
+
+1732011970 c:\users\admin\desktop\it002\lab4\b1\quanly.h
+	"NhanVien.h"
+

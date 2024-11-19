@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1732027206 source:c:\users\admin\desktop\it002\lab4\b2\room.cpp
+	<bits/stdc++.h>
+	"Room.h"
+
+1732026307 c:\users\admin\desktop\it002\lab4\b2\room.h
+	<bits/stdc++.h>
+
+1732027183 source:c:\users\admin\desktop\it002\lab4\b2\business.cpp
+	<bits/stdc++.h>
+	"Business.h"
+
+1732029331 c:\users\admin\desktop\it002\lab4\b2\business.h
+	"Room.h"
+	<bits/stdc++.h>
+
+1732027164 source:c:\users\admin\desktop\it002\lab4\b2\deluxe.cpp
+	<bits/stdc++.h>
+	"Deluxe.h"
+
+1732027285 c:\users\admin\desktop\it002\lab4\b2\deluxe.h
+	"Room.h"
+	<bits/stdc++.h>
+
+1732027187 source:c:\users\admin\desktop\it002\lab4\b2\premium.cpp
+	<bits/stdc++.h>
+	"Premium.h"
+
+1732027284 c:\users\admin\desktop\it002\lab4\b2\premium.h
+	"Room.h"
+	<bits/stdc++.h>
+
+1732027450 source:c:\users\admin\desktop\it002\lab4\b2\main.cpp
+	<bits/stdc++.h>
+	"Deluxe.h"
+	"Premium.h"
+	"Business.h"
+

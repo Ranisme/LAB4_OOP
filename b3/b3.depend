@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1732032510 source:c:\users\admin\desktop\it002\lab4\b3\dongvat.cpp
+	"DongVat.h"
+	<bits/stdc++.h>
+
+1732031366 c:\users\admin\desktop\it002\lab4\b3\dongvat.h
+	<bits/stdc++.h>
+
+1732033988 source:c:\users\admin\desktop\it002\lab4\b3\bo.cpp
+	"Bo.h"
+	<bits/stdc++.h>
+
+1732032394 c:\users\admin\desktop\it002\lab4\b3\bo.h
+	"DongVat.h"
+	<bits/stdc++.h>
+
+1732032452 source:c:\users\admin\desktop\it002\lab4\b3\cuu.cpp
+	"Cuu.h"
+	<bits/stdc++.h>
+
+1732032399 c:\users\admin\desktop\it002\lab4\b3\cuu.h
+	"DongVat.h"
+	<bits/stdc++.h>
+
+1732032500 source:c:\users\admin\desktop\it002\lab4\b3\de.cpp
+	"De.h"
+	<bits/stdc++.h>
+
+1732032401 c:\users\admin\desktop\it002\lab4\b3\de.h
+	"DongVat.h"
+	<bits/stdc++.h>
+
+1732032464 source:c:\users\admin\desktop\it002\lab4\b3\main.cpp
+	<bits/stdc++.h>
+	"Bo.h"
+	"Cuu.h"
+	"De.h"
+
